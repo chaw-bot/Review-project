@@ -1,0 +1,38 @@
+
+   #topIcons {
+      display: flex;
+      justify-content: space-evenly;
+   }
+
+   #signIn {
+      display:flex;
+      justify-content: right;
+   }
+
+   #logo {
+       display: flex;
+       justify-content: center;
+
+   }
+   
+   #search {
+    display: flex;
+    justify-content: center;
+}
+
+#someButtons {
+   display:flex;
+   justify-content: center;
+}
+
+
+   #foot {
+    display: flex;
+    justify-content: space-evenly;
+    grid-area: footer;
+   }
+   
+
+  
+
+   
